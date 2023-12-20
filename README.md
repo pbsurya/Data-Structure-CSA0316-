@@ -23,5 +23,7 @@ int main()
 	return 0;
 }
 ~~~
-![Screenshot (7)](https://github.com/pbsurya/Data-Structure-CSA0316-/assets/148762368/feb826b5-82ed-47bf-9241-968156a7ee4b)
+![Screenshot (8)](https://github.com/pbsurya/Data-Structure-CSA0316-/assets/148762368/a7ef8fa2-89ca-49cc-918a-dc8c5ae02bfd)
+
+
 
