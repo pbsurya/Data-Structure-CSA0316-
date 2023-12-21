@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int n=3,m=3,i,j,sum=0;
+	int a[3][3]={{1,2,3},{1,2,3},{1,2,3}};
+	if(m==n)
+	for(i=0;i<n;i++)
+	{
+		for(j=0;j<m;j++)
+		cout<<a[i][j];
+		cout<<"\n";
+	}
+	for(i=0;i<n;i++)
+	{
+		sum+=a[i][i];
+	}
+	cout<<"sum of diagonal:"<<sum;
+	return 0;
+}
